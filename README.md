@@ -54,14 +54,6 @@ The project showcases:
 - **Reactivity and dynamic state management** using `$state`.
 - **Two-way data binding** to interact with the UI.
 
-## Getting Started
 
-###  **1. Clone the Project**
-
-To start working with this project, clone it from the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
 
 

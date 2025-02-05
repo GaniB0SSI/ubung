@@ -13,3 +13,5 @@ git clone https://github.com/ganhas20/Aufgabe.git
 npm install
 npm run dev
 
+## O gani jam ergiti
+

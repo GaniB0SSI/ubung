@@ -43,3 +43,25 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+# Message Application
+
+## Project Overview
+
+This project is built using **Svelte**, a modern JavaScript framework that simplifies UI development. It features a simple structure with a **header**, **main content area**, and **footer**. The main functionality of this project involves displaying and dynamically updating a **message** using Svelte's **reactivity** and **two-way data binding**. This makes the app responsive and user-friendly.
+
+The project showcases:
+- **Svelte components**.
+- **Reactivity and dynamic state management** using `$state`.
+- **Two-way data binding** to interact with the UI.
+
+## Getting Started
+
+###  **1. Clone the Project**
+
+To start working with this project, clone it from the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+

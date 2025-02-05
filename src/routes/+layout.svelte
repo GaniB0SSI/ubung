@@ -26,7 +26,7 @@
 <style>
     /* Styling for the header */
     header {
-        background-color: #007bff;
+        background-color: #ee1ab9;
         color: white; 
         text-align: center;
         padding: 20px;
@@ -38,7 +38,7 @@
     .maini {
         display: flex;
         justify-content: center; 
-        padding: 10px solid black; 
+        padding: 10px solid rgb(118, 28, 125); 
     }
 
     /* Styling for the main section */
